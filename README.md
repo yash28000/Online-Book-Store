@@ -1,5 +1,5 @@
-Cloud Based Online Bookstore
-Overview
+**Cloud Based Online Bookstore**
+**Overview**
 Welcome to the Cloud Based Online Bookstore project! This project aims to create an efficient and dependable online bookstore leveraging cloud computing technologies. Built on Microsoft Azure, this bookstore provides scalability, flexibility, and cost-effective solutions for managing books, customers, and orders.
 
 Table of Contents
